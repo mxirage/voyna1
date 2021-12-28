@@ -1,4 +1,4 @@
-Currently overseeing PolarOS [an linux inspired operating system]
+# Currently overseeing PolarOS [an linux inspired operating system]
 
 
-Studying Cybersecurity
+### Studying Cybersecurity
