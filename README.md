@@ -1,4 +1,4 @@
-![polaros-bear](https://user-images.githubusercontent.com/48453855/147581041-913f9185-de25-47a5-8a44-4d0b93729936.png)
+![polaros-bear](https://w7.pngwing.com/pngs/790/365/png-transparent-gray-dragon-kali-linux-backtrack-penetration-test-offensive-security-certified-professional-linux-branch-logo-monochrome.png)
 # Currently overseeing PolarOS [an linux inspired operating system]
 
 
