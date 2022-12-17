@@ -2,5 +2,5 @@
 ## Cybersecurity and/or Data Analyst in the making
 
 
-### Ex Owner & Co-Owner of ATLIS, Conflixion
+### Ex Owner & Co-Owner of ATLIS, Conflixion, PolarOS
 #### Currently not working on any projects.
