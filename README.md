@@ -3,4 +3,4 @@
 
 
 ### Ex Owner & Co-Owner of ATLIS, Conflixion, PolarOS
-#### Currently not working on any projects.
+#### Currently working on Conflixion
