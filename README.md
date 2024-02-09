@@ -3,10 +3,16 @@
 
 * Contributed towards Roblox Follower botting program known as Conflixion
 * Contributed to numerous Discord Selfbot projects
-
-
-Working on "projects".
+* Server Management, Development
 
 
 
 ##### AMAGEDHONI - SKTR13
+
+
+## Dubi Expose / VSP Vault
+To learn more about Dubi's expose, please head over to this Gist link:
+https://gist.github.com/x091/a857bcd49b75f187c00867e398f6d67d
+
+
+![Frame 1510 (2)](https://github.com/x091/mirage/assets/48453855/8825307a-d981-416f-9af3-b08f5bcef846)
