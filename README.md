@@ -1,6 +1,5 @@
-![polaros-bear](https://cdn.discordapp.com/attachments/905858065679671390/1053518928732753980/kali-neon.png)
-## Cybersecurity and/or Data Analyst in the making
+![ekia](https://media.discordapp.net/attachments/1205160692941066250/1205364369236430878/-Photoroom.png-Photoroom.png?ex=65d81a0c&is=65c5a50c&hm=c7ae3b4749edc7a8a4ef2ab7e6c99d17e6196c9d60e899354ee0bcf0d70d57d0&=&format=webp&quality=lossless&width=197&height=200)
+## Cybersecurity, Data Analystics Enthusiast
 
 
-### Ex Owner & Co-Owner of ATLIS, Conflixion, PolarOS
-#### Currently working on Conflixion
+Working on "projects".
